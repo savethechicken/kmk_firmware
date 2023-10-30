@@ -29,7 +29,7 @@ keyboard.keymap = [
      KC.F16,  KC.F17,   KC.F18,   KC.H,       
      KC.F9,  KC.F13,   KC.F14,   KC.I,
     ],
-    [#Layer 1: 
+    [#Layer 1: Undecided 
      KC.A,  KC.B,   KC.C,   LAYER0,
      KC.E,  KC.F,   KC.G,   KC.N,       
      KC.I,  KC.J,   KC.K,   KC.V,        
